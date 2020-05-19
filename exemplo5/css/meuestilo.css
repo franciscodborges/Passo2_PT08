@@ -1,0 +1,8 @@
+p.centro { /*Caracterização da classe "centro" dentro da tag "p". Sempre que esta classe for chamada num paragrafo, irá obdecer ao que está dentro dos parenteses*/
+	text-align: center; /* Define o alinhamento do texto*/
+	color: red; /* Define a cor do texto*/
+}
+
+p.largo { /*Caracterização da classe "largo" dentro da tag "p". Sempre que esta classe for chamada num paragrafo, irá obdecer ao que está dentro dos parenteses*/
+   font-size: 300%; /* Define o tamanho do texto*/
+}

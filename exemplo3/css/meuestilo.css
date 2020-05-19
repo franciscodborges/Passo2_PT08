@@ -1,0 +1,4 @@
+.centro { /*Caracterização da classe "centro". Sempre que esta classe for chamada, irá obdecer ao que está dentro dos parenteses*/
+	text-align: center; /* Define o alinhamento do texto*/
+	color: red; /* Define a cor do texto*/
+}

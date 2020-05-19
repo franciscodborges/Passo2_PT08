@@ -1,0 +1,5 @@
+p { /*Caracterização da tag "p", onde todos os parágrafos 
+	irão seguir as "ordens" ditas entre parenteses*/
+	text-align: center; /* Define o alinhamento do texto*/	
+	color: red; /* Define a cor do texto*/
+}

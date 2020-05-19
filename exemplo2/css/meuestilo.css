@@ -1,0 +1,4 @@
+#paragrafo1 { /*Caracterização do id "paragrafo1", quando este for chamado obedece ao que está dentro de parenteses*/
+	text-align: center; /* Define o alinhamento do texto*/
+	color: red; /* Define a cor do texto*/
+}
